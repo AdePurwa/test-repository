@@ -1,0 +1,4 @@
+*.pyc
+__pychace__/
+venv/
+requirements_2.txt
